@@ -1,0 +1,24 @@
+{
+  "name": "pptxgenjs-opts-to-css",
+  "version": "0.0.1",
+  "description": "Tools to convert pptxgenjs options to css ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgiant/pptxgenjs-opts-to-css.git"
+  },
+  "keywords": [
+    "pptxgenjs",
+    "css",
+    "js"
+  ],
+  "author": "Joshua Rose <Jrgiant@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrgiant/pptxgenjs-opts-to-css/issues"
+  },
+  "homepage": "https://github.com/jrgiant/pptxgenjs-opts-to-css#readme"
+}
